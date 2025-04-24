@@ -8,4 +8,4 @@ rock paper scissors game made by project odin
 * javascript
 
 
-I DON'T NOW, WHY THIS DOENST WORKING.
+I DON'T NOW, WHY THIS PROJECT DOENS'T WORKING.
